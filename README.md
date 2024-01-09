@@ -20,4 +20,5 @@ The aim of this project is to create a system that can:
 
 ## Data Collection and Annotation
 
+Used own created dataset: https://www.kaggle.com/datasets/hamzakhanswati117191/pakistani-currency-counting
 RoboFlow was used for data annotation on custom datasets containing images of Pakistani currency notes. Data augmentation techniques were applied within RoboFlow to improve model accuracy by diversifying the dataset.
